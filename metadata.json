@@ -1,0 +1,6 @@
+{
+  "name": "Lakay Play",
+  "description": "Platfòm jwèt an liy Ayisyen: Morpion 5 pyon, Domino, Quiz, Bid ak sistèm peman MonCash & Natcash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
